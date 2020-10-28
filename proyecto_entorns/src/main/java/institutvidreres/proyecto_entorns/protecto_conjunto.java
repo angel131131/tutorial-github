@@ -16,6 +16,7 @@ public class protecto_conjunto {
 
     /**
      * @param args the command line arguments
+     * @return devuelve lo que haya en la arrayList.
      */
     public static void main(String args[]) {
         // TODO code application logic here
